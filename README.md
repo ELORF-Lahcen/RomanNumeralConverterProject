@@ -10,7 +10,7 @@ Un convertisseur de nombres arabes en chiffres romains, entièrement responsive 
 
 ---
 
-## 🔗 [Démo en Ligne](#) *(Ajoutez votre lien de démo ici)*
+## 🔗 [Démo en Ligne](#)(https://elorf-lahcen.github.io/RomanNumeralConverterProject/)
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,4 +41,37 @@ Un convertisseur de nombres arabes en chiffres romains, entièrement responsive 
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone https://github.com/votre-username/RomanNumeralConverterProject.git
+   git clone https://github.com/ELORF-Lahcen/RomanNumeralConverterProject.git
+   ```
+2. **Accédez au répertoire du projet** :
+   ```bash
+   cd DecimalToBinaryConverterProject
+   ```
+
+--- 
+
+## 📂 Project Structure
+
+```plaintext
+RomanNumeralConverterProject/
+├── index.html       # Fichier HTML principal
+├── styles.css       # Fichier CSS pour le style
+└── script.js        # Fichier JavaScript pour la logique de conversion
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please open a pull request.
+
+1. Fork the project.
+2. Create a new feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add YourFeature'`).
+4. Push to your branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+---
+
+👨‍💻 Made with ❤️ by [Lahcen ELORF](https://github.com/elorf-lahcen)
+
